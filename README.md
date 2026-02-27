@@ -7,7 +7,9 @@ In order to make sure that my code for the Contact Service project is functional
 
 2. How do I interpret needs and incorporate them into a program?
 
-   requirements
+I used the requirements given in the assignment to figure out what the user specifically needed. I read through them thoroughly to make sure I understood everything, then I went through them one by one and implemented whatever the user entailed. If something wasn't fully met yet, I went back and fixed it, like when my professor pointed out that the phone validation needed to check for exactly 10 digits instead of just 10 characters. 
 
-3. How do I approach designing software? 
+3. How do I approach designing software?
+
+My approach for designing this software was that I started by looking at examples from the course resources to build a basic skeleton of the classes with fields, a constructor, and getters. Then I went through the requirements one by one and added validation to check for things like null values and length limits. Then I wrote JUnit tests to make sure each requirement was actually working. I ran the tests, fixed anything that failed, and kept going until everything passed. Finally, when my professor gave feedback, I went back and made improvements like fixing the phone validation to check for exactly 10 digits. 
     
